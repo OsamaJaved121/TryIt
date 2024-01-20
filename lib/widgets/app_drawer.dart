@@ -13,7 +13,7 @@ class AppDrawer extends StatelessWidget {
         children: <Widget>[
           AppBar(
             backgroundColor: Color(0xFF4C53A5),
-            title: Text('Hello Friend!'),
+            title: Text('Menu'),
             automaticallyImplyLeading: false,
           ),
           Divider(),

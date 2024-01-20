@@ -142,7 +142,7 @@ class _ProductsOverviewScreenState extends State<ProductsOverviewScreen> {
                         margin: const EdgeInsets.symmetric(
                             horizontal: 10, vertical: 20),
                         child: const Text(
-                          "Best Selling",
+                          "Home",
                           style: TextStyle(
                             fontSize: 24,
                             fontWeight: FontWeight.bold,
